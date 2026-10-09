@@ -1,0 +1,7 @@
+START HERE
+1. Extract the ZIP.
+2. Open the extracted folder in VS Code (File > Open Folder).
+3. In MSYS2 UCRT64 terminal run: gcc server.c -o server.exe -lws2_32
+4. Run: ./server.exe
+5. Visit http://localhost:8080
+Each sidebar item opens a separate dashboard page.
